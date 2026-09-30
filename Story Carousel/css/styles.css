@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica;
+  text-align: center;
+}
+
+#storyImage {
+  width: 350px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 10px;
+}
